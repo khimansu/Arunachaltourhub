@@ -409,7 +409,7 @@ a:hover{color:var(--maroon-dark)}
   .sidebar{position:static}
   .footgrid{grid-template-columns:1fr 1fr;gap:32px}
 }
-@media (max-width:840px){
+@media (max-width:1120px){
   .navtoggle{display:inline-flex}
   .nav{
     display:none;position:absolute;top:100%;left:0;right:0;
