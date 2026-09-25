@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0E1A2E"/><stop offset="55%" stop-color="#25395C"/>
+<stop offset="88%" stop-color="#8A6A62"/><stop offset="100%" stop-color="#C98A4B"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#s)"/>
+<circle cx="900" cy="470" r="58" fill="#FCD98C" opacity=".92"/>
+<path fill="#2C4568" d="M0 470 L120 410 L260 460 L400 395 L540 455 L680 400 L820 465 L960 405 L1100 458 L1200 420 L1200 630 L0 630 Z"/>
+<path fill="#152238" d="M0 530 L150 495 L300 535 L460 490 L620 532 L780 492 L940 534 L1100 494 L1200 524 L1200 630 L0 630 Z"/>
+<text x="80" y="230" fill="#F3CE86" font-family="Georgia,serif" font-size="27">Arunachal Pradesh &#183; where India's day begins</text>
+<text x="80" y="315" fill="#FFFFFF" font-family="Georgia,serif" font-size="66" font-weight="bold">Arunachal Tour Hub</text>
+<text x="80" y="378" fill="#C8D6E6" font-family="Georgia,serif" font-size="30">Tawang &#183; Ziro &#183; Mechuka &#183; Dirang &#183; Siang Valley</text>
+<text x="80" y="432" fill="#C8D6E6" font-family="Georgia,serif" font-size="25">Permits, vehicles and homestays arranged by a local operator</text>
+</svg>
